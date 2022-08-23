@@ -12,10 +12,10 @@ blue = Fore.BLUE
 white = Fore.WHITE
 if name == 'nt':
     system('cls')
-    webbrowser.open('https://t.me/NullCyberi')
+    webbrowser.open('https://t.me/seignuersofficial')
 else:
     system('clear')
-    system('xdg-open https://t.me/NullCyberi')
+    system('xdg-open https://t.me/seignuersofficial')
 print(white+'''
 
 
