@@ -1,3 +1,23 @@
+##PASSWORD
+seignuersopbolte
+
+aksh=input(' please enter the password -->>>>>>>>>>> ' )
+print('\n')
+if aksh=='seignuersopbolte':
+   print(' your password is correct ' )
+
+else:
+  print(' your password is incorrect ' )
+  print('\n')
+  exit()
+print('\n')
+
+
+
+
+
+
+
 from os import name , system
 from requests import post
 from colorama import Fore
