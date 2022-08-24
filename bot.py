@@ -1,9 +1,7 @@
-##PASSWORD
-seignuersopbolte
 
-aksh=input(' please enter the password -->>>>>>>>>>> ' )
+aksh=input(' please enter the password -->>>> ' )
 print('\n')
-if aksh=='seignuersopbolte':
+if aksh=='seignuersontop':
    print(' your password is correct ' )
 
 else:
