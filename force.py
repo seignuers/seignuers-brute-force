@@ -1,8 +1,4 @@
-
-aksh=input(' 
-▒█▀▀█ █▀▀█ █▀▀ █▀▀ █░░░█ █▀▀█ █▀▀█ █▀▀▄ 
-▒█▄▄█ █▄▄█ ▀▀█ ▀▀█ █▄█▄█ █░░█ █▄▄▀ █░░█ 
-▒█░░░ ▀░░▀ ▀▀▀ ▀▀▀ ░▀░▀░ ▀▀▀▀ ▀░▀▀ ▀▀▀░ -->>>> ' )
+aksh=input(' please enter the password --~~~ ' )
 print('\n')
 if aksh=='seignuersontop':
    print(' your password is correct ' )
@@ -12,10 +8,6 @@ else:
   print('\n')
   exit()
 print('\n')
-
-
-
-
 
 
 
